@@ -40,7 +40,3 @@ cat flag.txt
 ## Herramientas utilizadas
 
 `openvpn` · `ping` · `nmap` · `ftp`
-
-## Resultado
-
-✅ Flag obtenida en el servidor FTP mediante acceso anónimo

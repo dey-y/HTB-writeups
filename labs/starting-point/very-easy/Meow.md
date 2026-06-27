@@ -37,7 +37,3 @@ cat /root/flag.txt
 ## Herramientas utilizadas
 
 `openvpn` · `ping` · `nmap` · `telnet`
-
-## Resultado
-
-✅ Flag obtenida en `/root/flag.txt`
