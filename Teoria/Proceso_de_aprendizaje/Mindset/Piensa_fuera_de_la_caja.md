@@ -1,10 +1,16 @@
-## Actividad: Think outside the box / Piensa fuera de la caja
+# Actividad: Think outside the box / Piensa fuera de la caja
+
+## Reflexión
 
 En esta actividad entendí que en ciberseguridad no siempre hay una única forma correcta de resolver un problema. Muchas veces estamos tan acostumbrados a seguir un método concreto que no pensamos en otras posibilidades que también podrían funcionar mejor o más rápido.
 
 En mi caso, no cambié la operación en sí porque al principio me enfoqué en resolverla de la forma más directa y conocida para mí. Sin embargo, sí busqué una forma más cómoda de procesarla mentalmente, dividiéndola en bloques más pequeños para poder entenderla mejor y llegar al resultado paso a paso.
 
 Esta actividad me hizo ver que pensar fuera de la caja no siempre significa cambiar todo el ejercicio, sino también encontrar una manera distinta de analizarlo. Para mí, dividir la operación en partes fue una forma de simplificar el problema y hacerlo más fácil de resolver.
+
+## Ejercicio
+
+¿Por qué no consideraste cambiar las operaciones aritméticas? ¿Por qué no pensaste en añadir más dígitos? Intenta responder con el mayor detalle posible por tu cuenta. Intenta escribir al menos 200 palabras al respecto.
 
 ### Mi respuesta
 
