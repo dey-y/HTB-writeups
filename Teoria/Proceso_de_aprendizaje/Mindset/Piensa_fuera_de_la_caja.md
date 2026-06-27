@@ -12,12 +12,12 @@ Esta actividad me hizo ver que pensar fuera de la caja no siempre significa camb
 
 ¿Por qué no consideraste cambiar las operaciones aritméticas? ¿Por qué no pensaste en añadir más dígitos? Intenta responder con el mayor detalle posible por tu cuenta. Intenta escribir al menos 200 palabras al respecto.
 
-### Mi respuesta
+## Respuesta al ejercicio
 
 No consideré cambiar las operaciones aritméticas porque, en ese momento, mi mente estaba enfocada en resolver el ejercicio de la forma tradicional. Aun así, sí intenté facilitar el proceso dividiendo la operación en partes más pequeñas.
 
 Por ejemplo, en lugar de intentar resolver todo de una sola vez, primero calculé una parte grande del resultado y luego sumé el resto. Eso me ayudó a procesar mejor la operación mentalmente y a llegar al resultado de una manera más clara.
 
-### Reflexión final
+## Conclusion
 
 Después de hacer esta actividad, me di cuenta de que pensar fuera de la caja no solo es buscar otra respuesta, sino también analizar cómo me resulta más fácil resolver un problema. En mi caso, dividir la operación en bloques fue mi forma de hacerlo más simple y entenderlo mejor.
