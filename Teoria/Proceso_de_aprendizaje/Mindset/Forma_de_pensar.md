@@ -6,6 +6,10 @@ En esta actividad aprendí que la seguridad informática es un campo amplio y ca
 
 En lugar de depender solo de la teoría, estoy reforzando mi aprendizaje con práctica constante en labs, documentación personal y publicación de resultados en GitHub. Mi objetivo es demostrar evolución continua, criterio técnico y capacidad de aprendizaje autónomo.
 
+## Ejercicio
+
+Pregúntate por qué no resolviste el problema de una manera diferente. Anótalo e intenta pensar en las razones por las que elegiste el método que escogiste. Tómate todo el tiempo que necesites para ello antes de continuar.
+
 ## Respuesta al ejercicio
 
 No opté por resolver el problema de otra forma porque la solución propuesta ya era clara y sencilla de entender. Si la hubiera visto más compleja de analizar o de comprender, habría buscado un enfoque alternativo para resolverla.

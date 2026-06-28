@@ -1,4 +1,4 @@
-# Actividad: Think outside the box / Piensa fuera de la caja
+# Actividad: Think outside the box
 
 ## Reflexión
 
