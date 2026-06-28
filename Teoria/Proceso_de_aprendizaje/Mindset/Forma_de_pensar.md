@@ -10,6 +10,6 @@ En lugar de depender solo de la teoría, estoy reforzando mi aprendizaje con pr�
 
 No opté por resolver el problema de otra forma porque la solución propuesta ya era clara y sencilla de entender. Si la hubiera visto más compleja de analizar o de comprender, habría buscado un enfoque alternativo para resolverla.
 
-## Conclusión
+## Conclusion
 
 Esta actividad me ayudó a reforzar una idea clave: en ciberseguridad no basta con saber mucho contenido, sino que también es importante saber aprender, analizar y adaptarse. El progreso real viene de la práctica, la constancia y la forma en que aplico lo que estudio.
