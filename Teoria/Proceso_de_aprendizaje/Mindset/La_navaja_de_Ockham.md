@@ -1,4 +1,6 @@
-## Reflexión: La navaja de Ockham
+# Actividad: Mindset / La navaja de Ockham
+
+## Reflexion 
 
 En esta actividad entendí que muchas veces me complico más de la cuenta cuando un problema en realidad puede tener una explicación simple. Me quedo más con la idea de empezar por lo básico y no perderme al principio buscando opciones raras o demasiado complejas.
 
