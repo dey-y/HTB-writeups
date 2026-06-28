@@ -1,6 +1,6 @@
-# Actividad: Think outside the box
+# Actividad: Mindset / Piensa fuera de la caja
 
-## Reflexión
+## Reflexion
 
 En esta actividad entendí que en ciberseguridad no siempre hay una única forma correcta de resolver un problema. Muchas veces estamos tan acostumbrados a seguir un método concreto que no pensamos en otras posibilidades que también podrían funcionar mejor o más rápido.
 

@@ -1,6 +1,6 @@
-# Actividad: Mindset / Learning Process
+# Actividad: Mindset / Forma de pensar
 
-## Reflexión
+## Reflexion
 
 En esta actividad aprendí que la seguridad informática es un campo amplio y cambiante, por lo que no se trata de memorizarlo todo, sino de entender principios, estructuras y métodos de análisis. También comprendí la importancia de desarrollar una metodología propia para investigar, aprender rápido y adaptarme a distintos entornos.
 
